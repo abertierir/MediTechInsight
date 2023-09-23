@@ -21,3 +21,6 @@ temp/
 
 # Web scraping
 *.html
+
+#Mac
+.DS_Store
