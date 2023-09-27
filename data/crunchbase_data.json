@@ -1,0 +1,2155 @@
+{
+    "count": 41400,
+    "entities": [
+        {
+            "uuid": "136b84b0-27ae-1fd5-6a44-379bc5ad9e18",
+            "properties": {
+                "identifier": {
+                    "permalink": "startup-wise-guys",
+                    "image_id": "l7pfcb3n6durhs06fyn9",
+                    "uuid": "136b84b0-27ae-1fd5-6a44-379bc5ad9e18",
+                    "entity_def_id": "organization",
+                    "value": "Startup Wise Guys"
+                },
+                "short_description": "Startup Wise Guys is a B2B startup accelerator.",
+                "location_identifiers": [
+                    {
+                        "permalink": "tallinn-harjumaa",
+                        "uuid": "43fb1c88-17b1-8aa6-b9ac-42c0fea70f41",
+                        "location_type": "city",
+                        "entity_def_id": "location",
+                        "value": "Tallinn"
+                    },
+                    {
+                        "permalink": "harjumaa-estonia",
+                        "uuid": "0f48d843-cbea-eed1-3bb3-2a40f3b24bca",
+                        "location_type": "region",
+                        "entity_def_id": "location",
+                        "value": "Harjumaa"
+                    },
+                    {
+                        "permalink": "estonia",
+                        "uuid": "c0771ac6-45dc-7060-e8e5-4fad1098f695",
+                        "location_type": "country",
+                        "entity_def_id": "location",
+                        "value": "Estonia"
+                    },
+                    {
+                        "permalink": "europe",
+                        "uuid": "6106f5dc-823e-5da8-40d7-51612c0b2c4e",
+                        "location_type": "continent",
+                        "entity_def_id": "location",
+                        "value": "Europe"
+                    }
+                ]
+            }
+        },
+        {
+            "uuid": "e3da0e93-7e3a-2591-6316-4e63eeb95d47",
+            "properties": {
+                "identifier": {
+                    "permalink": "drift",
+                    "image_id": "kxeeauhhymwg9qys9xvd",
+                    "uuid": "e3da0e93-7e3a-2591-6316-4e63eeb95d47",
+                    "entity_def_id": "organization",
+                    "value": "Drift"
+                },
+                "short_description": "Drift develops conversational marketing and sales platform.",
+                "location_identifiers": [
+                    {
+                        "permalink": "boston-massachusetts",
+                        "uuid": "9898e533-996b-0514-8cc5-302f60454c02",
+                        "location_type": "city",
+                        "entity_def_id": "location",
+                        "value": "Boston"
+                    },
+                    {
+                        "permalink": "massachusetts-united-states",
+                        "uuid": "98c62fd9-2148-9dd7-d767-b27fa0816b97",
+                        "location_type": "region",
+                        "entity_def_id": "location",
+                        "value": "Massachusetts"
+                    },
+                    {
+                        "permalink": "united-states",
+                        "uuid": "f110fca2-1055-99f6-996d-011c198b3928",
+                        "location_type": "country",
+                        "entity_def_id": "location",
+                        "value": "United States"
+                    },
+                    {
+                        "permalink": "north-america",
+                        "uuid": "b25caef9-a1b8-3a5d-6232-93b2dfb6a1d1",
+                        "location_type": "continent",
+                        "entity_def_id": "location",
+                        "value": "North America"
+                    }
+                ]
+            }
+        },
+        {
+            "uuid": "43bde047-b183-ae1d-6926-2fb752b7cf92",
+            "properties": {
+                "identifier": {
+                    "permalink": "zaggle-prepaid-ocean-services",
+                    "image_id": "hyhueulo4kqecfsvbxs5",
+                    "uuid": "43bde047-b183-ae1d-6926-2fb752b7cf92",
+                    "entity_def_id": "organization",
+                    "value": "Zaggle"
+                },
+                "short_description": "Zaggle provides spend management solutions to help corporations, SMEs, and startups manage their business expenses.",
+                "location_identifiers": [
+                    {
+                        "permalink": "hyderabad-andhra-pradesh",
+                        "uuid": "b9f0b922-35f2-335d-a1e5-f4b9a7f5b0fc",
+                        "location_type": "city",
+                        "entity_def_id": "location",
+                        "value": "Hyderabad"
+                    },
+                    {
+                        "permalink": "andhra-pradesh-india",
+                        "uuid": "1f3abd82-00a6-56c5-6dd9-4c5fff22ef8f",
+                        "location_type": "region",
+                        "entity_def_id": "location",
+                        "value": "Andhra Pradesh"
+                    },
+                    {
+                        "permalink": "india",
+                        "uuid": "44048bf7-db64-0d7a-db20-fd3c1ebf47b0",
+                        "location_type": "country",
+                        "entity_def_id": "location",
+                        "value": "India"
+                    },
+                    {
+                        "permalink": "asia",
+                        "uuid": "b41404d2-8ecc-caf5-1268-8fdd3afe73ee",
+                        "location_type": "continent",
+                        "entity_def_id": "location",
+                        "value": "Asia"
+                    }
+                ]
+            }
+        },
+        {
+            "uuid": "21710f7b-6af7-41c6-b19f-e3a13a395bf9",
+            "properties": {
+                "identifier": {
+                    "permalink": "certa",
+                    "image_id": "vje5gisn93ktsi0kfibv",
+                    "uuid": "21710f7b-6af7-41c6-b19f-e3a13a395bf9",
+                    "entity_def_id": "organization",
+                    "value": "Certa"
+                },
+                "short_description": "Certa is a compliance, governance, and risk management platform that provides products for third-party lifecycle management.",
+                "location_identifiers": [
+                    {
+                        "permalink": "saratoga-california",
+                        "uuid": "83844146-7d09-2602-dcfa-7e29dc4b23c0",
+                        "location_type": "city",
+                        "entity_def_id": "location",
+                        "value": "Saratoga"
+                    },
+                    {
+                        "permalink": "california-united-states",
+                        "uuid": "eb879a83-c91a-121e-0bb8-829782dbcf04",
+                        "location_type": "region",
+                        "entity_def_id": "location",
+                        "value": "California"
+                    },
+                    {
+                        "permalink": "united-states",
+                        "uuid": "f110fca2-1055-99f6-996d-011c198b3928",
+                        "location_type": "country",
+                        "entity_def_id": "location",
+                        "value": "United States"
+                    },
+                    {
+                        "permalink": "north-america",
+                        "uuid": "b25caef9-a1b8-3a5d-6232-93b2dfb6a1d1",
+                        "location_type": "continent",
+                        "entity_def_id": "location",
+                        "value": "North America"
+                    }
+                ]
+            }
+        },
+        {
+            "uuid": "03119649-429c-a945-7867-9b0f99fe7420",
+            "properties": {
+                "identifier": {
+                    "permalink": "leanix",
+                    "image_id": "fdjjy4tfyrtrie0xatjz",
+                    "uuid": "03119649-429c-a945-7867-9b0f99fe7420",
+                    "entity_def_id": "organization",
+                    "value": "LeanIX"
+                },
+                "short_description": "LeanIX is a Software-as-a-Service (SaaS) company that manages Enterprise Architecture and multi-cloud environments.",
+                "location_identifiers": [
+                    {
+                        "permalink": "bonn-nordrhein-westfalen",
+                        "uuid": "b13ef2f0-4b04-cdeb-7b6c-82e20eeb1640",
+                        "location_type": "city",
+                        "entity_def_id": "location",
+                        "value": "Bonn"
+                    },
+                    {
+                        "permalink": "nordrhein-westfalen-germany",
+                        "uuid": "ceb06994-fd1b-5093-dc0e-95c8cf80915b",
+                        "location_type": "region",
+                        "entity_def_id": "location",
+                        "value": "Nordrhein-Westfalen"
+                    },
+                    {
+                        "permalink": "germany",
+                        "uuid": "6085b4bf-b18a-1763-a04e-fdde3f6aba94",
+                        "location_type": "country",
+                        "entity_def_id": "location",
+                        "value": "Germany"
+                    },
+                    {
+                        "permalink": "europe",
+                        "uuid": "6106f5dc-823e-5da8-40d7-51612c0b2c4e",
+                        "location_type": "continent",
+                        "entity_def_id": "location",
+                        "value": "Europe"
+                    }
+                ]
+            }
+        },
+        {
+            "uuid": "7c56e6de-7c66-4548-a9d0-eca12e59f812",
+            "properties": {
+                "identifier": {
+                    "permalink": "ermetic",
+                    "image_id": "usdjxn1ywfjzbbx4da1x",
+                    "uuid": "7c56e6de-7c66-4548-a9d0-eca12e59f812",
+                    "entity_def_id": "organization",
+                    "value": "Ermetic"
+                },
+                "short_description": "Ermetic is a cloud-native application protection platform company that helps prevent breaches by analyzing configurations across identities.",
+                "location_identifiers": [
+                    {
+                        "permalink": "palo-alto-california",
+                        "uuid": "0d81d68c-9c59-f14f-0116-3ad9ce7145ca",
+                        "location_type": "city",
+                        "entity_def_id": "location",
+                        "value": "Palo Alto"
+                    },
+                    {
+                        "permalink": "california-united-states",
+                        "uuid": "eb879a83-c91a-121e-0bb8-829782dbcf04",
+                        "location_type": "region",
+                        "entity_def_id": "location",
+                        "value": "California"
+                    },
+                    {
+                        "permalink": "united-states",
+                        "uuid": "f110fca2-1055-99f6-996d-011c198b3928",
+                        "location_type": "country",
+                        "entity_def_id": "location",
+                        "value": "United States"
+                    },
+                    {
+                        "permalink": "north-america",
+                        "uuid": "b25caef9-a1b8-3a5d-6232-93b2dfb6a1d1",
+                        "location_type": "continent",
+                        "entity_def_id": "location",
+                        "value": "North America"
+                    }
+                ]
+            }
+        },
+        {
+            "uuid": "8adadbfb-be63-6602-8ca0-b037397a7038",
+            "properties": {
+                "identifier": {
+                    "permalink": "hewlett-packard",
+                    "image_id": "t3yy0cbsyxmdobociafd",
+                    "uuid": "8adadbfb-be63-6602-8ca0-b037397a7038",
+                    "entity_def_id": "organization",
+                    "value": "HP"
+                },
+                "short_description": "HP is a manufacturer and seller of personal computers, printers, computer hardwares, and business solutions.",
+                "location_identifiers": [
+                    {
+                        "permalink": "palo-alto-california",
+                        "uuid": "0d81d68c-9c59-f14f-0116-3ad9ce7145ca",
+                        "location_type": "city",
+                        "entity_def_id": "location",
+                        "value": "Palo Alto"
+                    },
+                    {
+                        "permalink": "california-united-states",
+                        "uuid": "eb879a83-c91a-121e-0bb8-829782dbcf04",
+                        "location_type": "region",
+                        "entity_def_id": "location",
+                        "value": "California"
+                    },
+                    {
+                        "permalink": "united-states",
+                        "uuid": "f110fca2-1055-99f6-996d-011c198b3928",
+                        "location_type": "country",
+                        "entity_def_id": "location",
+                        "value": "United States"
+                    },
+                    {
+                        "permalink": "north-america",
+                        "uuid": "b25caef9-a1b8-3a5d-6232-93b2dfb6a1d1",
+                        "location_type": "continent",
+                        "entity_def_id": "location",
+                        "value": "North America"
+                    }
+                ]
+            }
+        },
+        {
+            "uuid": "d74b607f-0a61-4baa-2d49-b2f68309069e",
+            "properties": {
+                "identifier": {
+                    "permalink": "ringcentral",
+                    "image_id": "bxldsud61nwvirkk85zf",
+                    "uuid": "d74b607f-0a61-4baa-2d49-b2f68309069e",
+                    "entity_def_id": "organization",
+                    "value": "RingCentral"
+                },
+                "short_description": "RingCentral is a provider of enterprise cloud communications and collaboration solutions.",
+                "location_identifiers": [
+                    {
+                        "permalink": "belmont-california",
+                        "uuid": "a91be67e-6197-4de3-db63-51bf84350fc3",
+                        "location_type": "city",
+                        "entity_def_id": "location",
+                        "value": "Belmont"
+                    },
+                    {
+                        "permalink": "california-united-states",
+                        "uuid": "eb879a83-c91a-121e-0bb8-829782dbcf04",
+                        "location_type": "region",
+                        "entity_def_id": "location",
+                        "value": "California"
+                    },
+                    {
+                        "permalink": "united-states",
+                        "uuid": "f110fca2-1055-99f6-996d-011c198b3928",
+                        "location_type": "country",
+                        "entity_def_id": "location",
+                        "value": "United States"
+                    },
+                    {
+                        "permalink": "north-america",
+                        "uuid": "b25caef9-a1b8-3a5d-6232-93b2dfb6a1d1",
+                        "location_type": "continent",
+                        "entity_def_id": "location",
+                        "value": "North America"
+                    }
+                ]
+            }
+        },
+        {
+            "uuid": "61ce12c6-3c0e-e5ca-502c-1bf2955e1190",
+            "properties": {
+                "identifier": {
+                    "permalink": "c3",
+                    "image_id": "pxbte8b0wcv2zdymvq0b",
+                    "uuid": "61ce12c6-3c0e-e5ca-502c-1bf2955e1190",
+                    "entity_def_id": "organization",
+                    "value": "C3 AI"
+                },
+                "short_description": "C3 AI is a provider of Enterprise AI software for accelerating digital transformation.",
+                "location_identifiers": [
+                    {
+                        "permalink": "redwood-city-california",
+                        "uuid": "54bae2ec-d71e-6826-2f4e-65930b3ee757",
+                        "location_type": "city",
+                        "entity_def_id": "location",
+                        "value": "Redwood City"
+                    },
+                    {
+                        "permalink": "california-united-states",
+                        "uuid": "eb879a83-c91a-121e-0bb8-829782dbcf04",
+                        "location_type": "region",
+                        "entity_def_id": "location",
+                        "value": "California"
+                    },
+                    {
+                        "permalink": "united-states",
+                        "uuid": "f110fca2-1055-99f6-996d-011c198b3928",
+                        "location_type": "country",
+                        "entity_def_id": "location",
+                        "value": "United States"
+                    },
+                    {
+                        "permalink": "north-america",
+                        "uuid": "b25caef9-a1b8-3a5d-6232-93b2dfb6a1d1",
+                        "location_type": "continent",
+                        "entity_def_id": "location",
+                        "value": "North America"
+                    }
+                ]
+            }
+        },
+        {
+            "uuid": "c02752b6-9c39-360e-c9a1-f0ed16065049",
+            "properties": {
+                "identifier": {
+                    "permalink": "equipmentshare",
+                    "image_id": "zw2dwwq0osb2fmlbcblc",
+                    "uuid": "c02752b6-9c39-360e-c9a1-f0ed16065049",
+                    "entity_def_id": "organization",
+                    "value": "EquipmentShare"
+                },
+                "short_description": "EquipmentShare is an equipment and digital solutions provider serving the construction industry to help contractors accelerate productivity.",
+                "location_identifiers": [
+                    {
+                        "permalink": "columbia-missouri",
+                        "uuid": "141efaee-7bee-a243-4a1c-01ceec9d3723",
+                        "location_type": "city",
+                        "entity_def_id": "location",
+                        "value": "Columbia"
+                    },
+                    {
+                        "permalink": "missouri-united-states",
+                        "uuid": "51a065b8-05d5-1a28-3fcd-1ad143f1f725",
+                        "location_type": "region",
+                        "entity_def_id": "location",
+                        "value": "Missouri"
+                    },
+                    {
+                        "permalink": "united-states",
+                        "uuid": "f110fca2-1055-99f6-996d-011c198b3928",
+                        "location_type": "country",
+                        "entity_def_id": "location",
+                        "value": "United States"
+                    },
+                    {
+                        "permalink": "north-america",
+                        "uuid": "b25caef9-a1b8-3a5d-6232-93b2dfb6a1d1",
+                        "location_type": "continent",
+                        "entity_def_id": "location",
+                        "value": "North America"
+                    }
+                ]
+            }
+        },
+        {
+            "uuid": "5f70da8a-f873-cf5f-05ee-8ab0c49c220d",
+            "properties": {
+                "identifier": {
+                    "permalink": "freshworks",
+                    "image_id": "lmvkrk1etrborilzp8yb",
+                    "uuid": "5f70da8a-f873-cf5f-05ee-8ab0c49c220d",
+                    "entity_def_id": "organization",
+                    "value": "Freshworks"
+                },
+                "short_description": "Freshworks is building and delivering online cloud-based software-as-a-service that provides helpdesk support with automation solutions.",
+                "location_identifiers": [
+                    {
+                        "permalink": "san-mateo-california",
+                        "uuid": "38414ea0-e8b8-a6c0-946e-23052c658c88",
+                        "location_type": "city",
+                        "entity_def_id": "location",
+                        "value": "San Mateo"
+                    },
+                    {
+                        "permalink": "california-united-states",
+                        "uuid": "eb879a83-c91a-121e-0bb8-829782dbcf04",
+                        "location_type": "region",
+                        "entity_def_id": "location",
+                        "value": "California"
+                    },
+                    {
+                        "permalink": "united-states",
+                        "uuid": "f110fca2-1055-99f6-996d-011c198b3928",
+                        "location_type": "country",
+                        "entity_def_id": "location",
+                        "value": "United States"
+                    },
+                    {
+                        "permalink": "north-america",
+                        "uuid": "b25caef9-a1b8-3a5d-6232-93b2dfb6a1d1",
+                        "location_type": "continent",
+                        "entity_def_id": "location",
+                        "value": "North America"
+                    }
+                ]
+            }
+        },
+        {
+            "uuid": "4946a04b-37e6-fac5-b023-f868623d85c5",
+            "properties": {
+                "identifier": {
+                    "permalink": "gitlab-com",
+                    "image_id": "tajrdf5hms58btnzjwo8",
+                    "uuid": "4946a04b-37e6-fac5-b023-f868623d85c5",
+                    "entity_def_id": "organization",
+                    "value": "GitLab"
+                },
+                "short_description": "GitLab is a comprehensive DevSecOps platform for software innovation.",
+                "location_identifiers": [
+                    {
+                        "permalink": "san-francisco-california",
+                        "uuid": "528f5e3c-90d1-1111-5d1c-2e4ff979d58e",
+                        "location_type": "city",
+                        "entity_def_id": "location",
+                        "value": "San Francisco"
+                    },
+                    {
+                        "permalink": "california-united-states",
+                        "uuid": "eb879a83-c91a-121e-0bb8-829782dbcf04",
+                        "location_type": "region",
+                        "entity_def_id": "location",
+                        "value": "California"
+                    },
+                    {
+                        "permalink": "united-states",
+                        "uuid": "f110fca2-1055-99f6-996d-011c198b3928",
+                        "location_type": "country",
+                        "entity_def_id": "location",
+                        "value": "United States"
+                    },
+                    {
+                        "permalink": "north-america",
+                        "uuid": "b25caef9-a1b8-3a5d-6232-93b2dfb6a1d1",
+                        "location_type": "continent",
+                        "entity_def_id": "location",
+                        "value": "North America"
+                    }
+                ]
+            }
+        },
+        {
+            "uuid": "97be7406-ccf8-0309-d205-4db4954c307f",
+            "properties": {
+                "identifier": {
+                    "permalink": "samsara-2",
+                    "image_id": "gtvtqa7u1yxc9b7zqfqn",
+                    "uuid": "97be7406-ccf8-0309-d205-4db4954c307f",
+                    "entity_def_id": "organization",
+                    "value": "Samsara"
+                },
+                "short_description": "Samsara is a software company that offers platform overview, video-based safety, telematics, app workflows, monitoring, and site visibility.",
+                "location_identifiers": [
+                    {
+                        "permalink": "san-francisco-california",
+                        "uuid": "528f5e3c-90d1-1111-5d1c-2e4ff979d58e",
+                        "location_type": "city",
+                        "entity_def_id": "location",
+                        "value": "San Francisco"
+                    },
+                    {
+                        "permalink": "california-united-states",
+                        "uuid": "eb879a83-c91a-121e-0bb8-829782dbcf04",
+                        "location_type": "region",
+                        "entity_def_id": "location",
+                        "value": "California"
+                    },
+                    {
+                        "permalink": "united-states",
+                        "uuid": "f110fca2-1055-99f6-996d-011c198b3928",
+                        "location_type": "country",
+                        "entity_def_id": "location",
+                        "value": "United States"
+                    },
+                    {
+                        "permalink": "north-america",
+                        "uuid": "b25caef9-a1b8-3a5d-6232-93b2dfb6a1d1",
+                        "location_type": "continent",
+                        "entity_def_id": "location",
+                        "value": "North America"
+                    }
+                ]
+            }
+        },
+        {
+            "uuid": "a21fd3fa-c9c5-be84-f26c-e1d78939ae6c",
+            "properties": {
+                "identifier": {
+                    "permalink": "docusign",
+                    "image_id": "ku2cddrnlqxafgpiv35p",
+                    "uuid": "a21fd3fa-c9c5-be84-f26c-e1d78939ae6c",
+                    "entity_def_id": "organization",
+                    "value": "DocuSign"
+                },
+                "short_description": "DocuSign helps small- and medium-sized businesses collect information, automate data workflows, and sign on various devices.",
+                "location_identifiers": [
+                    {
+                        "permalink": "san-francisco-california",
+                        "uuid": "528f5e3c-90d1-1111-5d1c-2e4ff979d58e",
+                        "location_type": "city",
+                        "entity_def_id": "location",
+                        "value": "San Francisco"
+                    },
+                    {
+                        "permalink": "california-united-states",
+                        "uuid": "eb879a83-c91a-121e-0bb8-829782dbcf04",
+                        "location_type": "region",
+                        "entity_def_id": "location",
+                        "value": "California"
+                    },
+                    {
+                        "permalink": "united-states",
+                        "uuid": "f110fca2-1055-99f6-996d-011c198b3928",
+                        "location_type": "country",
+                        "entity_def_id": "location",
+                        "value": "United States"
+                    },
+                    {
+                        "permalink": "north-america",
+                        "uuid": "b25caef9-a1b8-3a5d-6232-93b2dfb6a1d1",
+                        "location_type": "continent",
+                        "entity_def_id": "location",
+                        "value": "North America"
+                    }
+                ]
+            }
+        },
+        {
+            "uuid": "7cb65346-6b0f-b133-ed27-21fcb25104ad",
+            "properties": {
+                "identifier": {
+                    "permalink": "atlassian",
+                    "image_id": "dvcq6aphn9unb1ypolhz",
+                    "uuid": "7cb65346-6b0f-b133-ed27-21fcb25104ad",
+                    "entity_def_id": "organization",
+                    "value": "Atlassian"
+                },
+                "short_description": "Atlassian provides collaboration, development, and issue tracking software for teams.",
+                "location_identifiers": [
+                    {
+                        "permalink": "sydney-new-south-wales",
+                        "uuid": "cb843159-b286-d320-03a7-ce36d6764f21",
+                        "location_type": "city",
+                        "entity_def_id": "location",
+                        "value": "Sydney"
+                    },
+                    {
+                        "permalink": "new-south-wales-australia",
+                        "uuid": "77c6ba3a-1ceb-046a-4567-fc3d755c2d79",
+                        "location_type": "region",
+                        "entity_def_id": "location",
+                        "value": "New South Wales"
+                    },
+                    {
+                        "permalink": "australia",
+                        "uuid": "973b2306-d32e-3a70-263e-f1de1e0068f6",
+                        "location_type": "country",
+                        "entity_def_id": "location",
+                        "value": "Australia"
+                    },
+                    {
+                        "permalink": "oceania",
+                        "uuid": "0a8d0f47-eced-9ef8-5400-a8b737ece586",
+                        "location_type": "continent",
+                        "entity_def_id": "location",
+                        "value": "Oceania"
+                    }
+                ]
+            }
+        },
+        {
+            "uuid": "a4b36e71-cc34-4ce0-97c2-a70b3a297dc2",
+            "properties": {
+                "identifier": {
+                    "permalink": "forethought-7dc2",
+                    "image_id": "oqbyv4wxnm4oew8sdqhb",
+                    "uuid": "a4b36e71-cc34-4ce0-97c2-a70b3a297dc2",
+                    "entity_def_id": "organization",
+                    "value": "Forethought"
+                },
+                "short_description": "Forethought is the leading generative AI suite for customer support automation.",
+                "location_identifiers": [
+                    {
+                        "permalink": "san-francisco-california",
+                        "uuid": "528f5e3c-90d1-1111-5d1c-2e4ff979d58e",
+                        "location_type": "city",
+                        "entity_def_id": "location",
+                        "value": "San Francisco"
+                    },
+                    {
+                        "permalink": "california-united-states",
+                        "uuid": "eb879a83-c91a-121e-0bb8-829782dbcf04",
+                        "location_type": "region",
+                        "entity_def_id": "location",
+                        "value": "California"
+                    },
+                    {
+                        "permalink": "united-states",
+                        "uuid": "f110fca2-1055-99f6-996d-011c198b3928",
+                        "location_type": "country",
+                        "entity_def_id": "location",
+                        "value": "United States"
+                    },
+                    {
+                        "permalink": "north-america",
+                        "uuid": "b25caef9-a1b8-3a5d-6232-93b2dfb6a1d1",
+                        "location_type": "continent",
+                        "entity_def_id": "location",
+                        "value": "North America"
+                    }
+                ]
+            }
+        },
+        {
+            "uuid": "3e8ddad8-d168-3a24-ae9c-1ab0412a8f0e",
+            "properties": {
+                "identifier": {
+                    "permalink": "ada-support",
+                    "image_id": "r8962xh2b2grzpdgqqrk",
+                    "uuid": "3e8ddad8-d168-3a24-ae9c-1ab0412a8f0e",
+                    "entity_def_id": "organization",
+                    "value": "Ada"
+                },
+                "short_description": "Ada is an automated customer experience company that provides chat bots used in customer support.",
+                "location_identifiers": [
+                    {
+                        "permalink": "toronto-ontario",
+                        "uuid": "064d4c93-264e-92b0-f3cb-a9ad94cacd77",
+                        "location_type": "city",
+                        "entity_def_id": "location",
+                        "value": "Toronto"
+                    },
+                    {
+                        "permalink": "ontario-canada",
+                        "uuid": "452160a8-eaea-9fb8-11fe-78c5935ec12e",
+                        "location_type": "region",
+                        "entity_def_id": "location",
+                        "value": "Ontario"
+                    },
+                    {
+                        "permalink": "canada",
+                        "uuid": "1b3d6217-ec76-1b13-c47a-aca49b466a2c",
+                        "location_type": "country",
+                        "entity_def_id": "location",
+                        "value": "Canada"
+                    },
+                    {
+                        "permalink": "north-america",
+                        "uuid": "b25caef9-a1b8-3a5d-6232-93b2dfb6a1d1",
+                        "location_type": "continent",
+                        "entity_def_id": "location",
+                        "value": "North America"
+                    }
+                ]
+            }
+        },
+        {
+            "uuid": "b90d0777-65e1-40dc-bcff-a86f7b35163f",
+            "properties": {
+                "identifier": {
+                    "permalink": "impact-martech",
+                    "image_id": "fqknurj7ijj7hyyermtu",
+                    "uuid": "b90d0777-65e1-40dc-bcff-a86f7b35163f",
+                    "entity_def_id": "organization",
+                    "value": "impact.com"
+                },
+                "short_description": "impact.com, the leading global partnership management platform, has been transforming the way enterprises manage all types of partnerships.",
+                "location_identifiers": [
+                    {
+                        "permalink": "santa-barbara-california",
+                        "uuid": "8b2e3e54-716b-4e58-87bc-2650176fdc21",
+                        "location_type": "city",
+                        "entity_def_id": "location",
+                        "value": "Santa Barbara"
+                    },
+                    {
+                        "permalink": "california-united-states",
+                        "uuid": "eb879a83-c91a-121e-0bb8-829782dbcf04",
+                        "location_type": "region",
+                        "entity_def_id": "location",
+                        "value": "California"
+                    },
+                    {
+                        "permalink": "united-states",
+                        "uuid": "f110fca2-1055-99f6-996d-011c198b3928",
+                        "location_type": "country",
+                        "entity_def_id": "location",
+                        "value": "United States"
+                    },
+                    {
+                        "permalink": "north-america",
+                        "uuid": "b25caef9-a1b8-3a5d-6232-93b2dfb6a1d1",
+                        "location_type": "continent",
+                        "entity_def_id": "location",
+                        "value": "North America"
+                    }
+                ]
+            }
+        },
+        {
+            "uuid": "8bb75a65-0355-003b-5f58-2f437e83a55a",
+            "properties": {
+                "identifier": {
+                    "permalink": "gro-intelligence",
+                    "image_id": "k0ffdzojzsoonxmc1uob",
+                    "uuid": "8bb75a65-0355-003b-5f58-2f437e83a55a",
+                    "entity_def_id": "organization",
+                    "value": "Gro Intelligence"
+                },
+                "short_description": "The AI-powered decision engine across agriculture, climate, and the economy",
+                "location_identifiers": [
+                    {
+                        "permalink": "new-york-new-york",
+                        "uuid": "d64b7615-985c-fbf4-4aff-aa89d70c4050",
+                        "location_type": "city",
+                        "entity_def_id": "location",
+                        "value": "New York"
+                    },
+                    {
+                        "permalink": "new-york-united-states",
+                        "uuid": "83ead471-332b-d02e-67b7-67279aed075b",
+                        "location_type": "region",
+                        "entity_def_id": "location",
+                        "value": "New York"
+                    },
+                    {
+                        "permalink": "united-states",
+                        "uuid": "f110fca2-1055-99f6-996d-011c198b3928",
+                        "location_type": "country",
+                        "entity_def_id": "location",
+                        "value": "United States"
+                    },
+                    {
+                        "permalink": "north-america",
+                        "uuid": "b25caef9-a1b8-3a5d-6232-93b2dfb6a1d1",
+                        "location_type": "continent",
+                        "entity_def_id": "location",
+                        "value": "North America"
+                    }
+                ]
+            }
+        },
+        {
+            "uuid": "3b7b1be9-2957-d020-2bcd-52194c55fa1c",
+            "properties": {
+                "identifier": {
+                    "permalink": "digitalocean",
+                    "image_id": "v1478792253/gnlwek2zwhq369yryrzv.jpg",
+                    "uuid": "3b7b1be9-2957-d020-2bcd-52194c55fa1c",
+                    "entity_def_id": "organization",
+                    "value": "DigitalOcean"
+                },
+                "short_description": "DigitalOcean provides a cloud platform to deploy, manage, and scale applications of any size.",
+                "location_identifiers": [
+                    {
+                        "permalink": "new-york-new-york",
+                        "uuid": "d64b7615-985c-fbf4-4aff-aa89d70c4050",
+                        "location_type": "city",
+                        "entity_def_id": "location",
+                        "value": "New York"
+                    },
+                    {
+                        "permalink": "new-york-united-states",
+                        "uuid": "83ead471-332b-d02e-67b7-67279aed075b",
+                        "location_type": "region",
+                        "entity_def_id": "location",
+                        "value": "New York"
+                    },
+                    {
+                        "permalink": "united-states",
+                        "uuid": "f110fca2-1055-99f6-996d-011c198b3928",
+                        "location_type": "country",
+                        "entity_def_id": "location",
+                        "value": "United States"
+                    },
+                    {
+                        "permalink": "north-america",
+                        "uuid": "b25caef9-a1b8-3a5d-6232-93b2dfb6a1d1",
+                        "location_type": "continent",
+                        "entity_def_id": "location",
+                        "value": "North America"
+                    }
+                ]
+            }
+        },
+        {
+            "uuid": "1e349e9f-1206-6a22-434b-9ca4281a360d",
+            "properties": {
+                "identifier": {
+                    "permalink": "bambee",
+                    "image_id": "pctmar5rcej0bdkovnvd",
+                    "uuid": "1e349e9f-1206-6a22-434b-9ca4281a360d",
+                    "entity_def_id": "organization",
+                    "value": "Bambee"
+                },
+                "short_description": "Bambee is a platform offering an affordable solution to small and medium-sized businesses for hiring HR managers.",
+                "location_identifiers": [
+                    {
+                        "permalink": "los-angeles-california",
+                        "uuid": "4ce61f42-f6c4-e7ec-798d-44813b58856b",
+                        "location_type": "city",
+                        "entity_def_id": "location",
+                        "value": "Los Angeles"
+                    },
+                    {
+                        "permalink": "california-united-states",
+                        "uuid": "eb879a83-c91a-121e-0bb8-829782dbcf04",
+                        "location_type": "region",
+                        "entity_def_id": "location",
+                        "value": "California"
+                    },
+                    {
+                        "permalink": "united-states",
+                        "uuid": "f110fca2-1055-99f6-996d-011c198b3928",
+                        "location_type": "country",
+                        "entity_def_id": "location",
+                        "value": "United States"
+                    },
+                    {
+                        "permalink": "north-america",
+                        "uuid": "b25caef9-a1b8-3a5d-6232-93b2dfb6a1d1",
+                        "location_type": "continent",
+                        "entity_def_id": "location",
+                        "value": "North America"
+                    }
+                ]
+            }
+        },
+        {
+            "uuid": "8e5825f9-25dd-1ed2-8171-41255fc8c0ea",
+            "properties": {
+                "identifier": {
+                    "permalink": "new-relic",
+                    "image_id": "bdyccfb7agbozoyy4mk2",
+                    "uuid": "8e5825f9-25dd-1ed2-8171-41255fc8c0ea",
+                    "entity_def_id": "organization",
+                    "value": "New Relic"
+                },
+                "short_description": "New Relic is a digital intelligence company that delivers full-stack visibility and analytics to enterprises.",
+                "location_identifiers": [
+                    {
+                        "permalink": "san-francisco-california",
+                        "uuid": "528f5e3c-90d1-1111-5d1c-2e4ff979d58e",
+                        "location_type": "city",
+                        "entity_def_id": "location",
+                        "value": "San Francisco"
+                    },
+                    {
+                        "permalink": "california-united-states",
+                        "uuid": "eb879a83-c91a-121e-0bb8-829782dbcf04",
+                        "location_type": "region",
+                        "entity_def_id": "location",
+                        "value": "California"
+                    },
+                    {
+                        "permalink": "united-states",
+                        "uuid": "f110fca2-1055-99f6-996d-011c198b3928",
+                        "location_type": "country",
+                        "entity_def_id": "location",
+                        "value": "United States"
+                    },
+                    {
+                        "permalink": "north-america",
+                        "uuid": "b25caef9-a1b8-3a5d-6232-93b2dfb6a1d1",
+                        "location_type": "continent",
+                        "entity_def_id": "location",
+                        "value": "North America"
+                    }
+                ]
+            }
+        },
+        {
+            "uuid": "5d55ebc9-fc79-dbc4-fcfb-f609177a4473",
+            "properties": {
+                "identifier": {
+                    "permalink": "workato",
+                    "image_id": "gnyn6v2bsqfmpoycrtkf",
+                    "uuid": "5d55ebc9-fc79-dbc4-fcfb-f609177a4473",
+                    "entity_def_id": "organization",
+                    "value": "Workato"
+                },
+                "short_description": "Workato is an enterprise automation platform that helps organizations work faster and smarter without compromising governance and security.",
+                "location_identifiers": [
+                    {
+                        "permalink": "mountain-view-california",
+                        "uuid": "37bfe551-197e-0226-9a80-5d7bec8a50dd",
+                        "location_type": "city",
+                        "entity_def_id": "location",
+                        "value": "Mountain View"
+                    },
+                    {
+                        "permalink": "california-united-states",
+                        "uuid": "eb879a83-c91a-121e-0bb8-829782dbcf04",
+                        "location_type": "region",
+                        "entity_def_id": "location",
+                        "value": "California"
+                    },
+                    {
+                        "permalink": "united-states",
+                        "uuid": "f110fca2-1055-99f6-996d-011c198b3928",
+                        "location_type": "country",
+                        "entity_def_id": "location",
+                        "value": "United States"
+                    },
+                    {
+                        "permalink": "north-america",
+                        "uuid": "b25caef9-a1b8-3a5d-6232-93b2dfb6a1d1",
+                        "location_type": "continent",
+                        "entity_def_id": "location",
+                        "value": "North America"
+                    }
+                ]
+            }
+        },
+        {
+            "uuid": "6f83ddd7-d637-61f8-06b2-438a0037605f",
+            "properties": {
+                "identifier": {
+                    "permalink": "stripe",
+                    "image_id": "xpyon9burvvdliqnwea5",
+                    "uuid": "6f83ddd7-d637-61f8-06b2-438a0037605f",
+                    "entity_def_id": "organization",
+                    "value": "Stripe"
+                },
+                "short_description": "Stripe is an API technology company that provides online payment processing and commerce solutions for Internet businesses.",
+                "location_identifiers": [
+                    {
+                        "permalink": "south-san-francisco-california",
+                        "uuid": "e3409735-6075-d2fd-fec4-669b4f9c9979",
+                        "location_type": "city",
+                        "entity_def_id": "location",
+                        "value": "South San Francisco"
+                    },
+                    {
+                        "permalink": "california-united-states",
+                        "uuid": "eb879a83-c91a-121e-0bb8-829782dbcf04",
+                        "location_type": "region",
+                        "entity_def_id": "location",
+                        "value": "California"
+                    },
+                    {
+                        "permalink": "united-states",
+                        "uuid": "f110fca2-1055-99f6-996d-011c198b3928",
+                        "location_type": "country",
+                        "entity_def_id": "location",
+                        "value": "United States"
+                    },
+                    {
+                        "permalink": "north-america",
+                        "uuid": "b25caef9-a1b8-3a5d-6232-93b2dfb6a1d1",
+                        "location_type": "continent",
+                        "entity_def_id": "location",
+                        "value": "North America"
+                    }
+                ]
+            }
+        },
+        {
+            "uuid": "6698c108-3f52-cb7f-178c-10e16b069822",
+            "properties": {
+                "identifier": {
+                    "permalink": "pipefy",
+                    "image_id": "k2f1aihgbmkymldct1sn",
+                    "uuid": "6698c108-3f52-cb7f-178c-10e16b069822",
+                    "entity_def_id": "organization",
+                    "value": "Pipefy"
+                },
+                "short_description": "Pipefy is a no-code process orchestration platform to easily automate workflows and manage business processes.",
+                "location_identifiers": [
+                    {
+                        "permalink": "san-francisco-california",
+                        "uuid": "528f5e3c-90d1-1111-5d1c-2e4ff979d58e",
+                        "location_type": "city",
+                        "entity_def_id": "location",
+                        "value": "San Francisco"
+                    },
+                    {
+                        "permalink": "california-united-states",
+                        "uuid": "eb879a83-c91a-121e-0bb8-829782dbcf04",
+                        "location_type": "region",
+                        "entity_def_id": "location",
+                        "value": "California"
+                    },
+                    {
+                        "permalink": "united-states",
+                        "uuid": "f110fca2-1055-99f6-996d-011c198b3928",
+                        "location_type": "country",
+                        "entity_def_id": "location",
+                        "value": "United States"
+                    },
+                    {
+                        "permalink": "north-america",
+                        "uuid": "b25caef9-a1b8-3a5d-6232-93b2dfb6a1d1",
+                        "location_type": "continent",
+                        "entity_def_id": "location",
+                        "value": "North America"
+                    }
+                ]
+            }
+        },
+        {
+            "uuid": "1c78eb84-0203-455b-199b-9aada60216bb",
+            "properties": {
+                "identifier": {
+                    "permalink": "xero",
+                    "image_id": "mp2vdynzxmd8ae0kbscb",
+                    "uuid": "1c78eb84-0203-455b-199b-9aada60216bb",
+                    "entity_def_id": "organization",
+                    "value": "Xero"
+                },
+                "short_description": "Xero is a suite of online accounting software for small businesses, accountants, and bookkeepers.",
+                "location_identifiers": [
+                    {
+                        "permalink": "wellington-wellington",
+                        "uuid": "f4f2916e-fca7-6ad3-6e9b-162df1bc5ef1",
+                        "location_type": "city",
+                        "entity_def_id": "location",
+                        "value": "Wellington"
+                    },
+                    {
+                        "permalink": "wellington-new-zealand",
+                        "uuid": "86d11dcc-7f5f-98a1-7650-ae6751d14c38",
+                        "location_type": "region",
+                        "entity_def_id": "location",
+                        "value": "Wellington"
+                    },
+                    {
+                        "permalink": "new-zealand",
+                        "uuid": "dc3cf5b1-fc70-a597-d5b7-1c9ecef153ce",
+                        "location_type": "country",
+                        "entity_def_id": "location",
+                        "value": "New Zealand"
+                    },
+                    {
+                        "permalink": "oceania",
+                        "uuid": "0a8d0f47-eced-9ef8-5400-a8b737ece586",
+                        "location_type": "continent",
+                        "entity_def_id": "location",
+                        "value": "Oceania"
+                    }
+                ]
+            }
+        },
+        {
+            "uuid": "97054c83-a6a4-472e-968c-ebc66e8f73b2",
+            "properties": {
+                "identifier": {
+                    "permalink": "drata",
+                    "image_id": "bdfqfgaw2i5apkedrygt",
+                    "uuid": "97054c83-a6a4-472e-968c-ebc66e8f73b2",
+                    "entity_def_id": "organization",
+                    "value": "Drata"
+                },
+                "short_description": "Drata is a compliance and security SaaS platform that automates the compliance workflows on a company's security controls.",
+                "location_identifiers": [
+                    {
+                        "permalink": "san-diego-california",
+                        "uuid": "5e6c0212-55e2-4524-d10e-b2c35a241086",
+                        "location_type": "city",
+                        "entity_def_id": "location",
+                        "value": "San Diego"
+                    },
+                    {
+                        "permalink": "california-united-states",
+                        "uuid": "eb879a83-c91a-121e-0bb8-829782dbcf04",
+                        "location_type": "region",
+                        "entity_def_id": "location",
+                        "value": "California"
+                    },
+                    {
+                        "permalink": "united-states",
+                        "uuid": "f110fca2-1055-99f6-996d-011c198b3928",
+                        "location_type": "country",
+                        "entity_def_id": "location",
+                        "value": "United States"
+                    },
+                    {
+                        "permalink": "north-america",
+                        "uuid": "b25caef9-a1b8-3a5d-6232-93b2dfb6a1d1",
+                        "location_type": "continent",
+                        "entity_def_id": "location",
+                        "value": "North America"
+                    }
+                ]
+            }
+        },
+        {
+            "uuid": "b462578a-42e8-46bd-b3bf-751f9208bb5b",
+            "properties": {
+                "identifier": {
+                    "permalink": "grip-security",
+                    "image_id": "pdsezu8qkcupswg5nmrq",
+                    "uuid": "b462578a-42e8-46bd-b3bf-751f9208bb5b",
+                    "entity_def_id": "organization",
+                    "value": "Grip Security"
+                },
+                "short_description": "Grip is a developer of a SaaS security management platform to bring comprehensive visibility across enterprise SaaS applications.",
+                "location_identifiers": [
+                    {
+                        "permalink": "tel-aviv-tel-aviv",
+                        "uuid": "722877af-1334-395e-4f27-e270959395a0",
+                        "location_type": "city",
+                        "entity_def_id": "location",
+                        "value": "Tel Aviv"
+                    },
+                    {
+                        "permalink": "tel-aviv-israel",
+                        "uuid": "4f5fab46-7bca-9a1b-ba1a-70368c5337b9",
+                        "location_type": "region",
+                        "entity_def_id": "location",
+                        "value": "Tel Aviv"
+                    },
+                    {
+                        "permalink": "israel",
+                        "uuid": "ab89e1a9-013f-8261-3b5f-60487350334d",
+                        "location_type": "country",
+                        "entity_def_id": "location",
+                        "value": "Israel"
+                    },
+                    {
+                        "permalink": "asia",
+                        "uuid": "b41404d2-8ecc-caf5-1268-8fdd3afe73ee",
+                        "location_type": "continent",
+                        "entity_def_id": "location",
+                        "value": "Asia"
+                    }
+                ]
+            }
+        },
+        {
+            "uuid": "58429065-842d-4f41-9b40-ef9ac357f884",
+            "properties": {
+                "identifier": {
+                    "permalink": "activefence",
+                    "image_id": "ybx7v261imoqok2nidb5",
+                    "uuid": "58429065-842d-4f41-9b40-ef9ac357f884",
+                    "entity_def_id": "organization",
+                    "value": "ActiveFence"
+                },
+                "short_description": "ActiveFence enables trust and safety teams to protect their platforms and users from online arm - across content formats and abuse areas.",
+                "location_identifiers": [
+                    {
+                        "permalink": "tel-aviv-tel-aviv",
+                        "uuid": "722877af-1334-395e-4f27-e270959395a0",
+                        "location_type": "city",
+                        "entity_def_id": "location",
+                        "value": "Tel Aviv"
+                    },
+                    {
+                        "permalink": "tel-aviv-israel",
+                        "uuid": "4f5fab46-7bca-9a1b-ba1a-70368c5337b9",
+                        "location_type": "region",
+                        "entity_def_id": "location",
+                        "value": "Tel Aviv"
+                    },
+                    {
+                        "permalink": "israel",
+                        "uuid": "ab89e1a9-013f-8261-3b5f-60487350334d",
+                        "location_type": "country",
+                        "entity_def_id": "location",
+                        "value": "Israel"
+                    },
+                    {
+                        "permalink": "asia",
+                        "uuid": "b41404d2-8ecc-caf5-1268-8fdd3afe73ee",
+                        "location_type": "continent",
+                        "entity_def_id": "location",
+                        "value": "Asia"
+                    }
+                ]
+            }
+        },
+        {
+            "uuid": "03546ed8-ae51-3814-878f-187ede715517",
+            "properties": {
+                "identifier": {
+                    "permalink": "smartsheet-3",
+                    "image_id": "rzw9vcowqwe7wh6bbcir",
+                    "uuid": "03546ed8-ae51-3814-878f-187ede715517",
+                    "entity_def_id": "organization",
+                    "value": "Smartsheet"
+                },
+                "short_description": "Smartsheet is a cloud-based work management platform that empowers collaboration, drives better decision making, and accelerates innovation.",
+                "location_identifiers": [
+                    {
+                        "permalink": "bellevue-washington",
+                        "uuid": "16de6178-4c1e-7179-0417-afcd95455952",
+                        "location_type": "city",
+                        "entity_def_id": "location",
+                        "value": "Bellevue"
+                    },
+                    {
+                        "permalink": "washington-united-states",
+                        "uuid": "86caa7e0-91fb-ce58-6e4c-d58e799dd2bd",
+                        "location_type": "region",
+                        "entity_def_id": "location",
+                        "value": "Washington"
+                    },
+                    {
+                        "permalink": "united-states",
+                        "uuid": "f110fca2-1055-99f6-996d-011c198b3928",
+                        "location_type": "country",
+                        "entity_def_id": "location",
+                        "value": "United States"
+                    },
+                    {
+                        "permalink": "north-america",
+                        "uuid": "b25caef9-a1b8-3a5d-6232-93b2dfb6a1d1",
+                        "location_type": "continent",
+                        "entity_def_id": "location",
+                        "value": "North America"
+                    }
+                ]
+            }
+        },
+        {
+            "uuid": "27bde34d-e097-a59b-fa3b-0a8b7bc1d510",
+            "properties": {
+                "identifier": {
+                    "permalink": "ironclad",
+                    "image_id": "jqeacbadxfgjkjctehtb",
+                    "uuid": "27bde34d-e097-a59b-fa3b-0a8b7bc1d510",
+                    "entity_def_id": "organization",
+                    "value": "Ironclad"
+                },
+                "short_description": "Ironclad is a contract lifecycle management platform used by companies to handle every type of contract workflow.",
+                "location_identifiers": [
+                    {
+                        "permalink": "san-francisco-california",
+                        "uuid": "528f5e3c-90d1-1111-5d1c-2e4ff979d58e",
+                        "location_type": "city",
+                        "entity_def_id": "location",
+                        "value": "San Francisco"
+                    },
+                    {
+                        "permalink": "california-united-states",
+                        "uuid": "eb879a83-c91a-121e-0bb8-829782dbcf04",
+                        "location_type": "region",
+                        "entity_def_id": "location",
+                        "value": "California"
+                    },
+                    {
+                        "permalink": "united-states",
+                        "uuid": "f110fca2-1055-99f6-996d-011c198b3928",
+                        "location_type": "country",
+                        "entity_def_id": "location",
+                        "value": "United States"
+                    },
+                    {
+                        "permalink": "north-america",
+                        "uuid": "b25caef9-a1b8-3a5d-6232-93b2dfb6a1d1",
+                        "location_type": "continent",
+                        "entity_def_id": "location",
+                        "value": "North America"
+                    }
+                ]
+            }
+        },
+        {
+            "uuid": "6827f18b-09a0-58e4-ab12-0c26b8d2bda5",
+            "properties": {
+                "identifier": {
+                    "permalink": "akamai-technologies",
+                    "image_id": "v1487974190/l68tev2buxrbur8jftvq.png",
+                    "uuid": "6827f18b-09a0-58e4-ab12-0c26b8d2bda5",
+                    "entity_def_id": "organization",
+                    "value": "Akamai Technologies"
+                },
+                "short_description": "Akamai is a provider of cloud services that help enterprises provide secure, high-performing user experiences on any device.",
+                "location_identifiers": [
+                    {
+                        "permalink": "cambridge-massachusetts",
+                        "uuid": "46d953ab-bf0c-0fd1-c375-f151b78542a0",
+                        "location_type": "city",
+                        "entity_def_id": "location",
+                        "value": "Cambridge"
+                    },
+                    {
+                        "permalink": "massachusetts-united-states",
+                        "uuid": "98c62fd9-2148-9dd7-d767-b27fa0816b97",
+                        "location_type": "region",
+                        "entity_def_id": "location",
+                        "value": "Massachusetts"
+                    },
+                    {
+                        "permalink": "united-states",
+                        "uuid": "f110fca2-1055-99f6-996d-011c198b3928",
+                        "location_type": "country",
+                        "entity_def_id": "location",
+                        "value": "United States"
+                    },
+                    {
+                        "permalink": "north-america",
+                        "uuid": "b25caef9-a1b8-3a5d-6232-93b2dfb6a1d1",
+                        "location_type": "continent",
+                        "entity_def_id": "location",
+                        "value": "North America"
+                    }
+                ]
+            }
+        },
+        {
+            "uuid": "f5c477fa-6e8c-3d64-4f2d-3603e5cc3340",
+            "properties": {
+                "identifier": {
+                    "permalink": "salesforce",
+                    "image_id": "v1488354350/yx91yyljvcuu5j8agjqq.png",
+                    "uuid": "f5c477fa-6e8c-3d64-4f2d-3603e5cc3340",
+                    "entity_def_id": "organization",
+                    "value": "Salesforce"
+                },
+                "short_description": "Salesforce is a cloud-based software company that provides customer relationship management software and applications.",
+                "location_identifiers": [
+                    {
+                        "permalink": "san-francisco-california",
+                        "uuid": "528f5e3c-90d1-1111-5d1c-2e4ff979d58e",
+                        "location_type": "city",
+                        "entity_def_id": "location",
+                        "value": "San Francisco"
+                    },
+                    {
+                        "permalink": "california-united-states",
+                        "uuid": "eb879a83-c91a-121e-0bb8-829782dbcf04",
+                        "location_type": "region",
+                        "entity_def_id": "location",
+                        "value": "California"
+                    },
+                    {
+                        "permalink": "united-states",
+                        "uuid": "f110fca2-1055-99f6-996d-011c198b3928",
+                        "location_type": "country",
+                        "entity_def_id": "location",
+                        "value": "United States"
+                    },
+                    {
+                        "permalink": "north-america",
+                        "uuid": "b25caef9-a1b8-3a5d-6232-93b2dfb6a1d1",
+                        "location_type": "continent",
+                        "entity_def_id": "location",
+                        "value": "North America"
+                    }
+                ]
+            }
+        },
+        {
+            "uuid": "a81e886e-a81d-2c13-e55b-d4a67735663b",
+            "properties": {
+                "identifier": {
+                    "permalink": "opengov",
+                    "image_id": "kkmethlza77e3nvinrso",
+                    "uuid": "a81e886e-a81d-2c13-e55b-d4a67735663b",
+                    "entity_def_id": "organization",
+                    "value": "OpenGov"
+                },
+                "short_description": "OpenGov is the leader in modern cloud software for our nation\u2019s cities, counties, and state agencies.",
+                "location_identifiers": [
+                    {
+                        "permalink": "san-jose-california",
+                        "uuid": "1a36817c-b0a6-fbd1-a2be-3fb7e4900331",
+                        "location_type": "city",
+                        "entity_def_id": "location",
+                        "value": "San Jose"
+                    },
+                    {
+                        "permalink": "california-united-states",
+                        "uuid": "eb879a83-c91a-121e-0bb8-829782dbcf04",
+                        "location_type": "region",
+                        "entity_def_id": "location",
+                        "value": "California"
+                    },
+                    {
+                        "permalink": "united-states",
+                        "uuid": "f110fca2-1055-99f6-996d-011c198b3928",
+                        "location_type": "country",
+                        "entity_def_id": "location",
+                        "value": "United States"
+                    },
+                    {
+                        "permalink": "north-america",
+                        "uuid": "b25caef9-a1b8-3a5d-6232-93b2dfb6a1d1",
+                        "location_type": "continent",
+                        "entity_def_id": "location",
+                        "value": "North America"
+                    }
+                ]
+            }
+        },
+        {
+            "uuid": "47858d54-d8aa-5166-bd66-a803ee0f1041",
+            "properties": {
+                "identifier": {
+                    "permalink": "domo",
+                    "image_id": "v1491306505/u7uolviib0y54kuxecrp.jpg",
+                    "uuid": "47858d54-d8aa-5166-bd66-a803ee0f1041",
+                    "entity_def_id": "organization",
+                    "value": "Domo"
+                },
+                "short_description": "Domo designs and delivers an executive management platform as a service to help executives manage their business.",
+                "location_identifiers": [
+                    {
+                        "permalink": "american-fork-utah",
+                        "uuid": "ce322263-90c8-3178-91a8-e930e0b9b570",
+                        "location_type": "city",
+                        "entity_def_id": "location",
+                        "value": "American Fork"
+                    },
+                    {
+                        "permalink": "utah-united-states",
+                        "uuid": "08b3ad58-fc22-d6a9-15c6-be18a87af313",
+                        "location_type": "region",
+                        "entity_def_id": "location",
+                        "value": "Utah"
+                    },
+                    {
+                        "permalink": "united-states",
+                        "uuid": "f110fca2-1055-99f6-996d-011c198b3928",
+                        "location_type": "country",
+                        "entity_def_id": "location",
+                        "value": "United States"
+                    },
+                    {
+                        "permalink": "north-america",
+                        "uuid": "b25caef9-a1b8-3a5d-6232-93b2dfb6a1d1",
+                        "location_type": "continent",
+                        "entity_def_id": "location",
+                        "value": "North America"
+                    }
+                ]
+            }
+        },
+        {
+            "uuid": "cf56a25b-0767-2546-51ff-a46c1165be05",
+            "properties": {
+                "identifier": {
+                    "permalink": "pandadoc",
+                    "image_id": "v1503430085/lne69n5gey70qpyoi4is.png",
+                    "uuid": "cf56a25b-0767-2546-51ff-a46c1165be05",
+                    "entity_def_id": "organization",
+                    "value": "PandaDoc"
+                },
+                "short_description": "PandaDoc enables users to create, deliver, and manage their teams\u2019 quotes, proposals, contracts, and other sales collateral.",
+                "location_identifiers": [
+                    {
+                        "permalink": "san-francisco-california",
+                        "uuid": "528f5e3c-90d1-1111-5d1c-2e4ff979d58e",
+                        "location_type": "city",
+                        "entity_def_id": "location",
+                        "value": "San Francisco"
+                    },
+                    {
+                        "permalink": "california-united-states",
+                        "uuid": "eb879a83-c91a-121e-0bb8-829782dbcf04",
+                        "location_type": "region",
+                        "entity_def_id": "location",
+                        "value": "California"
+                    },
+                    {
+                        "permalink": "united-states",
+                        "uuid": "f110fca2-1055-99f6-996d-011c198b3928",
+                        "location_type": "country",
+                        "entity_def_id": "location",
+                        "value": "United States"
+                    },
+                    {
+                        "permalink": "north-america",
+                        "uuid": "b25caef9-a1b8-3a5d-6232-93b2dfb6a1d1",
+                        "location_type": "continent",
+                        "entity_def_id": "location",
+                        "value": "North America"
+                    }
+                ]
+            }
+        },
+        {
+            "uuid": "747b09f1-e0b5-4ace-a15a-a118e0e76d37",
+            "properties": {
+                "identifier": {
+                    "permalink": "resilience-insurance",
+                    "image_id": "p0lngpthpgjvlekgawfs",
+                    "uuid": "747b09f1-e0b5-4ace-a15a-a118e0e76d37",
+                    "entity_def_id": "organization",
+                    "value": "Resilience"
+                },
+                "short_description": "Resilience supports companies assess, measure, and manage their cyber risk by balancing risk acceptance, mitigation, and transfer.",
+                "location_identifiers": [
+                    {
+                        "permalink": "san-francisco-california",
+                        "uuid": "528f5e3c-90d1-1111-5d1c-2e4ff979d58e",
+                        "location_type": "city",
+                        "entity_def_id": "location",
+                        "value": "San Francisco"
+                    },
+                    {
+                        "permalink": "california-united-states",
+                        "uuid": "eb879a83-c91a-121e-0bb8-829782dbcf04",
+                        "location_type": "region",
+                        "entity_def_id": "location",
+                        "value": "California"
+                    },
+                    {
+                        "permalink": "united-states",
+                        "uuid": "f110fca2-1055-99f6-996d-011c198b3928",
+                        "location_type": "country",
+                        "entity_def_id": "location",
+                        "value": "United States"
+                    },
+                    {
+                        "permalink": "north-america",
+                        "uuid": "b25caef9-a1b8-3a5d-6232-93b2dfb6a1d1",
+                        "location_type": "continent",
+                        "entity_def_id": "location",
+                        "value": "North America"
+                    }
+                ]
+            }
+        },
+        {
+            "uuid": "c2750511-2ce2-6588-58e5-b761f56b5160",
+            "properties": {
+                "identifier": {
+                    "permalink": "dialpad",
+                    "image_id": "n6jrb2biayheywcaioev",
+                    "uuid": "c2750511-2ce2-6588-58e5-b761f56b5160",
+                    "entity_def_id": "organization",
+                    "value": "Dialpad"
+                },
+                "short_description": "Dialpad is an AI-powered cloud communications platform that turns conversations into opportunities and helps teams make smart calls.",
+                "location_identifiers": [
+                    {
+                        "permalink": "san-francisco-california",
+                        "uuid": "528f5e3c-90d1-1111-5d1c-2e4ff979d58e",
+                        "location_type": "city",
+                        "entity_def_id": "location",
+                        "value": "San Francisco"
+                    },
+                    {
+                        "permalink": "california-united-states",
+                        "uuid": "eb879a83-c91a-121e-0bb8-829782dbcf04",
+                        "location_type": "region",
+                        "entity_def_id": "location",
+                        "value": "California"
+                    },
+                    {
+                        "permalink": "united-states",
+                        "uuid": "f110fca2-1055-99f6-996d-011c198b3928",
+                        "location_type": "country",
+                        "entity_def_id": "location",
+                        "value": "United States"
+                    },
+                    {
+                        "permalink": "north-america",
+                        "uuid": "b25caef9-a1b8-3a5d-6232-93b2dfb6a1d1",
+                        "location_type": "continent",
+                        "entity_def_id": "location",
+                        "value": "North America"
+                    }
+                ]
+            }
+        },
+        {
+            "uuid": "2dc12481-a4e3-4a06-b8d0-cca8aedfe97f",
+            "properties": {
+                "identifier": {
+                    "permalink": "hyperproof",
+                    "image_id": "fe0gbfek0yf95twpyf3e",
+                    "uuid": "2dc12481-a4e3-4a06-b8d0-cca8aedfe97f",
+                    "entity_def_id": "organization",
+                    "value": "Hyperproof"
+                },
+                "short_description": "Hyperproof is a cloud-based compliance operations software that collects evidence automatically and manages a compliance program.",
+                "location_identifiers": [
+                    {
+                        "permalink": "bellevue-washington",
+                        "uuid": "16de6178-4c1e-7179-0417-afcd95455952",
+                        "location_type": "city",
+                        "entity_def_id": "location",
+                        "value": "Bellevue"
+                    },
+                    {
+                        "permalink": "washington-united-states",
+                        "uuid": "86caa7e0-91fb-ce58-6e4c-d58e799dd2bd",
+                        "location_type": "region",
+                        "entity_def_id": "location",
+                        "value": "Washington"
+                    },
+                    {
+                        "permalink": "united-states",
+                        "uuid": "f110fca2-1055-99f6-996d-011c198b3928",
+                        "location_type": "country",
+                        "entity_def_id": "location",
+                        "value": "United States"
+                    },
+                    {
+                        "permalink": "north-america",
+                        "uuid": "b25caef9-a1b8-3a5d-6232-93b2dfb6a1d1",
+                        "location_type": "continent",
+                        "entity_def_id": "location",
+                        "value": "North America"
+                    }
+                ]
+            }
+        },
+        {
+            "uuid": "f818b5e1-79ff-4ae3-a723-382a421bb98b",
+            "properties": {
+                "identifier": {
+                    "permalink": "khatabook",
+                    "image_id": "kiqhku6ifxeio5aiqeos",
+                    "uuid": "f818b5e1-79ff-4ae3-a723-382a421bb98b",
+                    "entity_def_id": "organization",
+                    "value": "Khatabook"
+                },
+                "short_description": "Khatabook is the fintech startup that provides a digital ledger app targeted primarily at small businesses.",
+                "location_identifiers": [
+                    {
+                        "permalink": "bangalore-karnataka",
+                        "uuid": "37f3a3fe-b659-895e-4d84-0b649e005c3a",
+                        "location_type": "city",
+                        "entity_def_id": "location",
+                        "value": "Bangalore"
+                    },
+                    {
+                        "permalink": "karnataka-india",
+                        "uuid": "cd79504e-3c0a-954f-a3c6-094f46c0d524",
+                        "location_type": "region",
+                        "entity_def_id": "location",
+                        "value": "Karnataka"
+                    },
+                    {
+                        "permalink": "india",
+                        "uuid": "44048bf7-db64-0d7a-db20-fd3c1ebf47b0",
+                        "location_type": "country",
+                        "entity_def_id": "location",
+                        "value": "India"
+                    },
+                    {
+                        "permalink": "asia",
+                        "uuid": "b41404d2-8ecc-caf5-1268-8fdd3afe73ee",
+                        "location_type": "continent",
+                        "entity_def_id": "location",
+                        "value": "Asia"
+                    }
+                ]
+            }
+        },
+        {
+            "uuid": "0fef70cb-af81-c9b6-b9e0-aa5fc3b50829",
+            "properties": {
+                "identifier": {
+                    "permalink": "amplitude",
+                    "image_id": "l2xmvfal9wohwa8faunc",
+                    "uuid": "0fef70cb-af81-c9b6-b9e0-aa5fc3b50829",
+                    "entity_def_id": "organization",
+                    "value": "Amplitude"
+                },
+                "short_description": "Amplitude is a product intelligence platform that provides digital product tools that help teams run and grow their businesses.",
+                "location_identifiers": [
+                    {
+                        "permalink": "san-francisco-california",
+                        "uuid": "528f5e3c-90d1-1111-5d1c-2e4ff979d58e",
+                        "location_type": "city",
+                        "entity_def_id": "location",
+                        "value": "San Francisco"
+                    },
+                    {
+                        "permalink": "california-united-states",
+                        "uuid": "eb879a83-c91a-121e-0bb8-829782dbcf04",
+                        "location_type": "region",
+                        "entity_def_id": "location",
+                        "value": "California"
+                    },
+                    {
+                        "permalink": "united-states",
+                        "uuid": "f110fca2-1055-99f6-996d-011c198b3928",
+                        "location_type": "country",
+                        "entity_def_id": "location",
+                        "value": "United States"
+                    },
+                    {
+                        "permalink": "north-america",
+                        "uuid": "b25caef9-a1b8-3a5d-6232-93b2dfb6a1d1",
+                        "location_type": "continent",
+                        "entity_def_id": "location",
+                        "value": "North America"
+                    }
+                ]
+            }
+        },
+        {
+            "uuid": "eede791a-af46-86ba-6497-c3e1fdbbaa6d",
+            "properties": {
+                "identifier": {
+                    "permalink": "ledger-2",
+                    "image_id": "od8xgfxebe0ewce9defw",
+                    "uuid": "eede791a-af46-86ba-6497-c3e1fdbbaa6d",
+                    "entity_def_id": "organization",
+                    "value": "Ledger"
+                },
+                "short_description": "Ledger provides security and infrastructure solutions to critical digital assets for consumers and institutional investors.",
+                "location_identifiers": [
+                    {
+                        "permalink": "paris-ile-de-france",
+                        "uuid": "5805284c-00a4-f0aa-b811-5843398ff2bb",
+                        "location_type": "city",
+                        "entity_def_id": "location",
+                        "value": "Paris"
+                    },
+                    {
+                        "permalink": "ile-de-france-france",
+                        "uuid": "104bf883-3a61-03f9-b51a-ba1d9a4d2c62",
+                        "location_type": "region",
+                        "entity_def_id": "location",
+                        "value": "Ile-de-France"
+                    },
+                    {
+                        "permalink": "france",
+                        "uuid": "f134827e-36a1-fd31-a82f-950489e103ef",
+                        "location_type": "country",
+                        "entity_def_id": "location",
+                        "value": "France"
+                    },
+                    {
+                        "permalink": "europe",
+                        "uuid": "6106f5dc-823e-5da8-40d7-51612c0b2c4e",
+                        "location_type": "continent",
+                        "entity_def_id": "location",
+                        "value": "Europe"
+                    }
+                ]
+            }
+        },
+        {
+            "uuid": "c1de8393-7373-264b-bf87-42681e34ba9e",
+            "properties": {
+                "identifier": {
+                    "permalink": "procore-technologies",
+                    "image_id": "yrq95buttqrpeyb8qvfu",
+                    "uuid": "c1de8393-7373-264b-bf87-42681e34ba9e",
+                    "entity_def_id": "organization",
+                    "value": "Procore"
+                },
+                "short_description": "Procore is a cloud-based construction management software company.",
+                "location_identifiers": [
+                    {
+                        "permalink": "carpinteria-california",
+                        "uuid": "115a1da3-41b9-f5e6-7045-ffad20bcd3dc",
+                        "location_type": "city",
+                        "entity_def_id": "location",
+                        "value": "Carpinteria"
+                    },
+                    {
+                        "permalink": "california-united-states",
+                        "uuid": "eb879a83-c91a-121e-0bb8-829782dbcf04",
+                        "location_type": "region",
+                        "entity_def_id": "location",
+                        "value": "California"
+                    },
+                    {
+                        "permalink": "united-states",
+                        "uuid": "f110fca2-1055-99f6-996d-011c198b3928",
+                        "location_type": "country",
+                        "entity_def_id": "location",
+                        "value": "United States"
+                    },
+                    {
+                        "permalink": "north-america",
+                        "uuid": "b25caef9-a1b8-3a5d-6232-93b2dfb6a1d1",
+                        "location_type": "continent",
+                        "entity_def_id": "location",
+                        "value": "North America"
+                    }
+                ]
+            }
+        },
+        {
+            "uuid": "8d3e4750-7fcc-4681-ba53-8c4fbcdcb2b3",
+            "properties": {
+                "identifier": {
+                    "permalink": "tractian",
+                    "image_id": "nboh6ho4mcxn4ip6oynv",
+                    "uuid": "8d3e4750-7fcc-4681-ba53-8c4fbcdcb2b3",
+                    "entity_def_id": "organization",
+                    "value": "TRACTIAN"
+                },
+                "short_description": "Tractian is a machine intelligence company that offers industrial monitoring systems.",
+                "location_identifiers": [
+                    {
+                        "permalink": "atlanta-georgia",
+                        "uuid": "d8030351-c1d2-0ace-2b33-794a95c99b7c",
+                        "location_type": "city",
+                        "entity_def_id": "location",
+                        "value": "Atlanta"
+                    },
+                    {
+                        "permalink": "georgia-united-states",
+                        "uuid": "e5e9da40-cf54-5c78-963b-e6d5a2efe686",
+                        "location_type": "region",
+                        "entity_def_id": "location",
+                        "value": "Georgia"
+                    },
+                    {
+                        "permalink": "united-states",
+                        "uuid": "f110fca2-1055-99f6-996d-011c198b3928",
+                        "location_type": "country",
+                        "entity_def_id": "location",
+                        "value": "United States"
+                    },
+                    {
+                        "permalink": "north-america",
+                        "uuid": "b25caef9-a1b8-3a5d-6232-93b2dfb6a1d1",
+                        "location_type": "continent",
+                        "entity_def_id": "location",
+                        "value": "North America"
+                    }
+                ]
+            }
+        },
+        {
+            "uuid": "b0d35264-f953-6db1-ae47-104f929d097f",
+            "properties": {
+                "identifier": {
+                    "permalink": "health-wildcatters",
+                    "image_id": "v1457025935/mwgztcrsuvazrn1wpjph.png",
+                    "uuid": "b0d35264-f953-6db1-ae47-104f929d097f",
+                    "entity_def_id": "organization",
+                    "value": "Health Wildcatters"
+                },
+                "short_description": "Health Wildcatters is a mentor-driven seed accelerator focused on improving healthcare by supporting entrepreneurs and healthcare startups.",
+                "location_identifiers": [
+                    {
+                        "permalink": "dallas-texas",
+                        "uuid": "4adc63ff-3d91-9598-74df-e37fff9553ec",
+                        "location_type": "city",
+                        "entity_def_id": "location",
+                        "value": "Dallas"
+                    },
+                    {
+                        "permalink": "texas-united-states",
+                        "uuid": "54e9e76a-1847-d137-00a7-ed1aab624b78",
+                        "location_type": "region",
+                        "entity_def_id": "location",
+                        "value": "Texas"
+                    },
+                    {
+                        "permalink": "united-states",
+                        "uuid": "f110fca2-1055-99f6-996d-011c198b3928",
+                        "location_type": "country",
+                        "entity_def_id": "location",
+                        "value": "United States"
+                    },
+                    {
+                        "permalink": "north-america",
+                        "uuid": "b25caef9-a1b8-3a5d-6232-93b2dfb6a1d1",
+                        "location_type": "continent",
+                        "entity_def_id": "location",
+                        "value": "North America"
+                    }
+                ]
+            }
+        },
+        {
+            "uuid": "66527a8c-2b61-4131-82ba-a93ee3dde5b2",
+            "properties": {
+                "identifier": {
+                    "permalink": "certifid",
+                    "image_id": "inw8ksjklwse0uvyqxgc",
+                    "uuid": "66527a8c-2b61-4131-82ba-a93ee3dde5b2",
+                    "entity_def_id": "organization",
+                    "value": "CertifID"
+                },
+                "short_description": "CertifID is a SaaS security platform used to validate identity and securely transfer bank account information.",
+                "location_identifiers": [
+                    {
+                        "permalink": "austin-texas",
+                        "uuid": "05f9cee2-453e-c12f-2438-59f21246783e",
+                        "location_type": "city",
+                        "entity_def_id": "location",
+                        "value": "Austin"
+                    },
+                    {
+                        "permalink": "texas-united-states",
+                        "uuid": "54e9e76a-1847-d137-00a7-ed1aab624b78",
+                        "location_type": "region",
+                        "entity_def_id": "location",
+                        "value": "Texas"
+                    },
+                    {
+                        "permalink": "united-states",
+                        "uuid": "f110fca2-1055-99f6-996d-011c198b3928",
+                        "location_type": "country",
+                        "entity_def_id": "location",
+                        "value": "United States"
+                    },
+                    {
+                        "permalink": "north-america",
+                        "uuid": "b25caef9-a1b8-3a5d-6232-93b2dfb6a1d1",
+                        "location_type": "continent",
+                        "entity_def_id": "location",
+                        "value": "North America"
+                    }
+                ]
+            }
+        },
+        {
+            "uuid": "2f6ed0df-e019-f0ad-10bc-d7eee4710103",
+            "properties": {
+                "identifier": {
+                    "permalink": "qualtrics",
+                    "image_id": "boiortr8b8wfkjiagbv9",
+                    "uuid": "2f6ed0df-e019-f0ad-10bc-d7eee4710103",
+                    "entity_def_id": "organization",
+                    "value": "Qualtrics"
+                },
+                "short_description": "Qualtrics is a single system of record for all experience data, managing customer, product, employee, and brand experiences on one platform.",
+                "location_identifiers": [
+                    {
+                        "permalink": "provo-utah",
+                        "uuid": "e7cbe61a-25ca-93ba-f701-2a3382c60cce",
+                        "location_type": "city",
+                        "entity_def_id": "location",
+                        "value": "Provo"
+                    },
+                    {
+                        "permalink": "utah-united-states",
+                        "uuid": "08b3ad58-fc22-d6a9-15c6-be18a87af313",
+                        "location_type": "region",
+                        "entity_def_id": "location",
+                        "value": "Utah"
+                    },
+                    {
+                        "permalink": "united-states",
+                        "uuid": "f110fca2-1055-99f6-996d-011c198b3928",
+                        "location_type": "country",
+                        "entity_def_id": "location",
+                        "value": "United States"
+                    },
+                    {
+                        "permalink": "north-america",
+                        "uuid": "b25caef9-a1b8-3a5d-6232-93b2dfb6a1d1",
+                        "location_type": "continent",
+                        "entity_def_id": "location",
+                        "value": "North America"
+                    }
+                ]
+            }
+        },
+        {
+            "uuid": "cd01361a-fc11-4fe0-abca-0bfff2331de5",
+            "properties": {
+                "identifier": {
+                    "permalink": "optera",
+                    "image_id": "ys55wqxxwthy5hkdx37e",
+                    "uuid": "cd01361a-fc11-4fe0-abca-0bfff2331de5",
+                    "entity_def_id": "organization",
+                    "value": "Optera"
+                },
+                "short_description": "Optera platform tracks emissions upstream and downstream in a company\u2019s supply chain.",
+                "location_identifiers": [
+                    {
+                        "permalink": "boulder-colorado",
+                        "uuid": "e208d0e6-1b9b-cf11-16e7-5feddc832cb5",
+                        "location_type": "city",
+                        "entity_def_id": "location",
+                        "value": "Boulder"
+                    },
+                    {
+                        "permalink": "colorado-united-states",
+                        "uuid": "056b6b39-09ea-2c85-27af-f54b58a28072",
+                        "location_type": "region",
+                        "entity_def_id": "location",
+                        "value": "Colorado"
+                    },
+                    {
+                        "permalink": "united-states",
+                        "uuid": "f110fca2-1055-99f6-996d-011c198b3928",
+                        "location_type": "country",
+                        "entity_def_id": "location",
+                        "value": "United States"
+                    },
+                    {
+                        "permalink": "north-america",
+                        "uuid": "b25caef9-a1b8-3a5d-6232-93b2dfb6a1d1",
+                        "location_type": "continent",
+                        "entity_def_id": "location",
+                        "value": "North America"
+                    }
+                ]
+            }
+        },
+        {
+            "uuid": "143764d8-9c9b-701f-7350-00b85f6cd2a7",
+            "properties": {
+                "identifier": {
+                    "permalink": "pagerduty",
+                    "image_id": "v7evmambjpv643luprdu",
+                    "uuid": "143764d8-9c9b-701f-7350-00b85f6cd2a7",
+                    "entity_def_id": "organization",
+                    "value": "PagerDuty"
+                },
+                "short_description": "PagerDuty is an operations performance platform delivering visibility and actionable intelligence across the entire incident lifecycle.",
+                "location_identifiers": [
+                    {
+                        "permalink": "san-francisco-california",
+                        "uuid": "528f5e3c-90d1-1111-5d1c-2e4ff979d58e",
+                        "location_type": "city",
+                        "entity_def_id": "location",
+                        "value": "San Francisco"
+                    },
+                    {
+                        "permalink": "california-united-states",
+                        "uuid": "eb879a83-c91a-121e-0bb8-829782dbcf04",
+                        "location_type": "region",
+                        "entity_def_id": "location",
+                        "value": "California"
+                    },
+                    {
+                        "permalink": "united-states",
+                        "uuid": "f110fca2-1055-99f6-996d-011c198b3928",
+                        "location_type": "country",
+                        "entity_def_id": "location",
+                        "value": "United States"
+                    },
+                    {
+                        "permalink": "north-america",
+                        "uuid": "b25caef9-a1b8-3a5d-6232-93b2dfb6a1d1",
+                        "location_type": "continent",
+                        "entity_def_id": "location",
+                        "value": "North America"
+                    }
+                ]
+            }
+        },
+        {
+            "uuid": "bf71f558-2c83-49e3-bf43-e01623d23150",
+            "properties": {
+                "identifier": {
+                    "permalink": "oyster-3150",
+                    "image_id": "ubczcbwrduftveiwef6z",
+                    "uuid": "bf71f558-2c83-49e3-bf43-e01623d23150",
+                    "entity_def_id": "organization",
+                    "value": "Oyster"
+                },
+                "short_description": "Oyster is a distributed HR platform that offers companies to hire, pay, and care for teammates.",
+                "location_identifiers": [
+                    {
+                        "permalink": "wilmington-delaware",
+                        "uuid": "f0df5079-0e0f-0701-d1cf-da245a61f217",
+                        "location_type": "city",
+                        "entity_def_id": "location",
+                        "value": "Wilmington"
+                    },
+                    {
+                        "permalink": "delaware-united-states",
+                        "uuid": "80757580-5d44-1e11-b8b7-470ff238abe2",
+                        "location_type": "region",
+                        "entity_def_id": "location",
+                        "value": "Delaware"
+                    },
+                    {
+                        "permalink": "united-states",
+                        "uuid": "f110fca2-1055-99f6-996d-011c198b3928",
+                        "location_type": "country",
+                        "entity_def_id": "location",
+                        "value": "United States"
+                    },
+                    {
+                        "permalink": "north-america",
+                        "uuid": "b25caef9-a1b8-3a5d-6232-93b2dfb6a1d1",
+                        "location_type": "continent",
+                        "entity_def_id": "location",
+                        "value": "North America"
+                    }
+                ]
+            }
+        }
+    ]
+}
