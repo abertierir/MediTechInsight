@@ -1,17 +1,22 @@
-from MediTechInsight.scripts.data_extraction.api_ingestor import APIDataIngestor
-from MediTechInsight.scripts.data_extraction.nih_robot_ingestor import NIHFormIngestion
+from scripts.data_extraction.api_ingestor import APIDataIngestor
+from scripts.data_extraction.nih_robot_ingestor import NIHFormIngestion
 import json
+import pandas as pd
 
 
 
 config_file = "config.json"
+excel_file = "/data/"
 
 if __name__ == "__main__":
     
     """
     Extraer datos de NIH
     """
-    nih_extractor=NIHFormIngestion(config_file)
+    df=pd.read_csv("./data/3_noncommunicable_diseases.csv")
+    nih_extractor=NIHFormIngestion(df)
+    nih_extractor.getKeyWords()
+    nih_extractor.doASearch()
 
 
     """

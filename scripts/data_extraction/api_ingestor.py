@@ -1,6 +1,17 @@
 import requests
 import json
 
+
+"""
+Esta clase tiene:
+    - El constructor
+    - La función que setea el header (Por ahora fijo)
+    - La función que setea el body (Por ahora fijo)
+    - La función que hace el post request (Por ahora fijo)
+
+    * FetchOrganizationData por ahora no hace mucho
+
+"""
 class APIDataIngestor:
     def __init__(self, config_file):
         with open(config_file,'r') as file:

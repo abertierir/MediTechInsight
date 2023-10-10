@@ -25,5 +25,8 @@ temp/
 # Code
 config.json
 
-#Mac
+# Mac
 *.DS_Store
+
+# Selenium
+drivers/
