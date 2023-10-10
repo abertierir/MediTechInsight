@@ -18,7 +18,7 @@ class APIDataIngestor:
     
 
     def set_body(self):
-        self.body={
+        self.body = {
             "field_ids": [
                 "identifier",
                 "location_identifiers",
@@ -27,12 +27,12 @@ class APIDataIngestor:
             "query": [
                 {
                     "type": "predicate",
-                    "field_id": "short_description",
-                    "operator_id": "contains",
-                    "values": ["SaaS"]
+                    "field_id": "name",
+                    "operator_id": "eq",
+                    "values": ["HeartLung Corporation"]
                 }
             ],
-         "limit": 50
+            "limit": 50
         }
     
 
