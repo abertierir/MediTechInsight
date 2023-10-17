@@ -1,6 +1,3 @@
-from scripts.data_extraction.api_ingestor import APIDataIngestor
-from scripts.data_extraction.nih_robot_ingestor import NIHFormIngestion
-import json
 import pandas as pd
 
 original_file = "data/primary_di_numbers.csv"
@@ -10,7 +7,6 @@ if __name__ == "__main__":
     """
     With the extracted data. Evaluate uniqueness
     """
-
     csv_file = original_file
     df = pd.read_csv(csv_file)
 
