@@ -1,7 +1,7 @@
 import pandas as pd
 from pymongo import MongoClient
 import matplotlib.pyplot as plt
-#import seaborn as sns
+import seaborn as sns
 
 
 if __name__ == "__main__":  
@@ -19,7 +19,8 @@ if __name__ == "__main__":
     # Análisis Exploratorio de Datos
     # Visualizar la estructura de la base de datos
     cursor = collection.find({}) 
-    df = pd.DataFrame(list(cursor))
+    df = pd.json_normalize(list(cursor))
+   # df = pd.DataFrame(list(cursor))
     print("Estructura de la base de datos:")
     print(df.head())
 
@@ -49,12 +50,14 @@ if __name__ == "__main__":
 
     # Visualizar la distribución de tipos de dispositivos (gmdnPTName)
     plt.figure(figsize=(12, 6))
-    top_device_types = df['gmdnPTName'].value_counts().nlargest(10)
+    top_device_types = df["gmdnTerms.gmdn"].apply(lambda x: x[0]['gmdnCode']).value_counts().nlargest(10)
     top_device_types.plot(kind='bar')
     plt.title("Top 10 Tipos de Dispositivos")
     plt.xlabel("Tipo de Dispositivo")
     plt.ylabel("Cantidad de Dispositivos")
     plt.show()
+
+    version_status_json = top_device_types.to_json("datos.json",orient='records')
 
     client.close()
     
