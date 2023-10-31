@@ -2,8 +2,9 @@ import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
 from pymongo import MongoClient
+import plotly.express as px
 
-
+st.cache_resource.clear()
 
 # Inicializar la conexión a MongoDB
 client = MongoClient('localhost', 27017)  # Cambia 'localhost' y 27017 por la configuración de tu servidor MongoDB
@@ -40,23 +41,45 @@ plt.figure(figsize=(12, 6))
 plt.title("Distribución de Version Status")
 plt.show()
 
-# Visualizar los fabricantes (companyName) más comunes
-plt.figure(figsize=(12, 6))
-top_manufacturers = df['companyName'].value_counts().nlargest(10)
-top_manufacturers.plot(kind='bar')
-plt.title("Top 10 Fabricantes")
-plt.xlabel("Fabricante")
-plt.ylabel("Cantidad de Dispositivos")
-plt.show()
+# st.subheader("Top 10 gmdnCodes")
+# top_device_types = df["gmdnTerms.gmdn"].apply(lambda x: x[0]['gmdnPTName']).value_counts().nlargest(10)
+# st.bar_chart(top_device_types)
 
-# Visualizar la distribución de tipos de dispositivos (gmdnPTName)
-plt.figure(figsize=(12, 6))
-top_device_types = df["gmdnTerms.gmdn"].apply(lambda x: x[0]['gmdnCode']).value_counts().nlargest(10)
-top_device_types.plot(kind='bar')
-plt.title("Top 10 Tipos de Dispositivos")
-plt.xlabel("Tipo de Dispositivo")
-plt.ylabel("Cantidad de Dispositivos")
-plt.show()
+# Visualizar los fabricantes (companyName) más comunes
+# plt.figure(figsize=(12, 6))
+st.subheader("Top 10 Companies")
+top_manufacturers = df['companyName'].value_counts().nlargest(10)
+st.bar_chart(top_manufacturers)
+
+top_device_types = df["gmdnTerms.gmdn"].apply(lambda x: x[0]['gmdnPTName']).value_counts().nlargest(10)
+
+st.subheader("Top 10 gmdnCodes")
+st.write(top_device_types)
+
+
+fig = px.bar(
+    x=top_device_types.index,  # Categories on the X-axis
+    y=top_device_types.values,  # Counts on the Y-axis
+    labels={'x': 'gmdnCode', 'y': 'Count'},
+    title="Top 10 gmdnCodes"
+)
+
+st.plotly_chart(fig)
+
+# top_manufacturers.plot(kind='bar')
+# plt.title("Top 10 Fabricantes")
+# plt.xlabel("Fabricante")
+# plt.ylabel("Cantidad de Dispositivos")
+# plt.show()
+
+# Visualizar la distribución de tipos de dispositivos (gmdnPTName) gmdnCode
+#plt.figure(figsize=(12, 6))
+
+#top_device_types.plot(kind='bar')
+# plt.title("Top 10 Tipos de Dispositivos")
+# plt.xlabel("Tipo de Dispositivo")
+# plt.ylabel("Cantidad de Dispositivos")
+# plt.show()
 
 client.close()
 
