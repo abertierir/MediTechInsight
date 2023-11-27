@@ -1,5 +1,4 @@
 from selenium import webdriver
-from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.by import By
 from selenium.common.exceptions import NoSuchElementException
 from selenium.webdriver.support.ui import WebDriverWait
@@ -7,34 +6,26 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.common.exceptions import StaleElementReferenceException
 from selenium.common.exceptions import TimeoutException
 import csv
-
-import re
 import time
 
-"""
-Esta clase tiene:
-    - El constructor
+class NIHSearcher:
 
-"""
-
-class NIHFormIngestion:
-
-    def __init__ (self, csv_path):
+    def __init__ (self, csv_path, url):
         self.driver= webdriver.Chrome()
         self.terms= csv_path
+        self.url=url
 
-    def getKeyWords(self):
+    def setKeyWordsFromColumn(self,column):
         for _, row in self.terms.iterrows():
-            termino=row["term"]
+            termino=row[column]
             print(termino)
+        self.term=column
 
     def doASearch(self):
 
         for _, row in self.terms.iterrows():
-
-            self.driver.get("https://accessgudid.nlm.nih.gov")
-
-            termino = row["term"]
+            self.driver.get(self.url)
+            termino = row[self.term]
 
             try:
                 search_box= self.driver.find_element(By.ID, "searchToolsQuery")
@@ -42,14 +33,14 @@ class NIHFormIngestion:
                 try:
                     search_box= self.driver.find_element(By.ID, "searchQuery")
                 except NoSuchElementException:
-                    print("No se pudo encontrar el searchBox ni por el ID principal ni por el ID secundario")
+                    print("The searchBox could not be found by either the main ID or the secondary ID.")
             
             
             if search_box:
                 search_box.send_keys(termino)
                 search_box.send_keys(Keys.RETURN)
             else:
-                print("No se encontró el search box")
+                print("The search box was not found.")
 
             self.resultsPerPage(50)
 
@@ -59,19 +50,17 @@ class NIHFormIngestion:
 
     def resultsPerPage(self, number):
         try:
-            # Espera hasta que el enlace "Results Per Page" sea clickeable y hágale clic
+            
             results_per_page_link = WebDriverWait(self.driver, 10).until(
                 EC.element_to_be_clickable((By.ID, "results-per-page"))
             )
             results_per_page_link.click()
 
-            # Espera hasta que la opción "50" sea clickeable y hágale clic
             option_50 = WebDriverWait(self.driver, 10).until(
                 EC.element_to_be_clickable((By.CSS_SELECTOR, "ul#page-size-options li a[href*='page_size=50']"))
             )
             option_50.click()
         except TimeoutException:
-            # Maneja la excepción si se lanza
             print("No hubo resultados de búsqueda")
 
     def getAllResults(self, termino):
